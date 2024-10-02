@@ -5,3 +5,4 @@ venv/
 account.json
 urls.json
 files/
+screenshots/*
